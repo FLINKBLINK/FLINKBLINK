@@ -1,7 +1,7 @@
 ### Hi there, I'm FLINKBLINK 👋
 
 - 🔭 I’m currently working on back-end
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Python
 - 😄 Pronouns: ele/dele
 
 <div>
