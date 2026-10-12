@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="t d">
+<title id="t">Lucas Rodrigues Vieira — Data Science · Software Development</title>
+<desc id="d">Banner com um gráfico de dispersão, reta de regressão, intervalo de confiança e uma previsão.</desc>
+<style>.sans{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif}.mono{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace}</style>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#111b26"/></linearGradient>
+<radialGradient id="glow" cx="0.8" cy="0.5" r="0.42"><stop offset="0" stop-color="#2dd4bf" stop-opacity="0.17"/><stop offset="1" stop-color="#2dd4bf" stop-opacity="0"/></radialGradient>
+<pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.1" fill="#3d4752"/></pattern>
+<linearGradient id="fadeg" x1="0" y1="0" x2="1" y2="0"><stop offset="0.38" stop-color="#fff" stop-opacity="0"/><stop offset="0.8" stop-color="#fff" stop-opacity="1"/></linearGradient>
+<mask id="fade"><rect width="1200" height="300" fill="url(#fadeg)"/></mask>
+<clipPath id="card"><rect x="0.5" y="0.5" width="1199" height="299" rx="18"/></clipPath>
+<clipPath id="fcReveal"><rect x="1032.3" y="30" width="84.8" height="240"><animate attributeName="width" values="0;0;84.8" keyTimes="0;0.786;1" dur="2.8s" fill="freeze"/></rect></clipPath>
+</defs>
+<rect x="0.5" y="0.5" width="1199" height="299" rx="18" fill="url(#bg)"/>
+<g clip-path="url(#card)">
+<rect width="1200" height="300" fill="url(#dots)" mask="url(#fade)"/>
+<rect width="1200" height="300" fill="url(#glow)"/>
+</g>
+<rect x="0.5" y="0.5" width="1199" height="299" rx="18" fill="none" stroke="#30363d"/>
+<g>
+<animate attributeName="opacity" values="0;1" dur="0.8s" fill="freeze"/>
+<text x="64" y="96" class="mono" font-size="15" letter-spacing="3" fill="#2dd4bf">DATA SCIENCE · SOFTWARE DEVELOPMENT</text>
+<text x="62" y="154" class="sans" font-size="48" font-weight="700" fill="#e6edf3">Lucas Rodrigues Vieira</text>
+<text x="64" y="194" class="sans" font-size="22" fill="#9198a1">From raw data to clear decisions.</text>
+<rect x="64" y="216" width="53.2" height="30" rx="15" fill="#2dd4bf" fill-opacity="0.08" stroke="#2dd4bf" stroke-opacity="0.38"/>
+<text x="90.6" y="236" text-anchor="middle" class="mono" font-size="14" fill="#99f6e4">ETL</text>
+<rect x="127.2" y="216" width="103.6" height="30" rx="15" fill="#2dd4bf" fill-opacity="0.08" stroke="#2dd4bf" stroke-opacity="0.38"/>
+<text x="179" y="236" text-anchor="middle" class="mono" font-size="14" fill="#99f6e4">Analytics</text>
+<rect x="240.8" y="216" width="112" height="30" rx="15" fill="#2dd4bf" fill-opacity="0.08" stroke="#2dd4bf" stroke-opacity="0.38"/>
+<text x="296.8" y="236" text-anchor="middle" class="mono" font-size="14" fill="#99f6e4">Dashboards</text>
+<rect x="362.8" y="216" width="112" height="30" rx="15" fill="#2dd4bf" fill-opacity="0.08" stroke="#2dd4bf" stroke-opacity="0.38"/>
+<text x="418.8" y="236" text-anchor="middle" class="mono" font-size="14" fill="#99f6e4">Statistics</text>
+<rect x="484.8" y="216" width="95.2" height="30" rx="15" fill="#2dd4bf" fill-opacity="0.08" stroke="#2dd4bf" stroke-opacity="0.38"/>
+<text x="532.4" y="236" text-anchor="middle" class="mono" font-size="14" fill="#99f6e4">Back-end</text>
+</g>
+<line x1="812" y1="106" x2="1128" y2="106" stroke="#262c36" stroke-dasharray="2 6"/>
+<line x1="812" y1="150" x2="1128" y2="150" stroke="#262c36" stroke-dasharray="2 6"/>
+<line x1="812" y1="194" x2="1128" y2="194" stroke="#262c36" stroke-dasharray="2 6"/>
+<path d="M812,56 L812,238 L1132,238" fill="none" stroke="#3d444d" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M825.7,205.5 L831.8,203.3 L837.8,201.1 L843.8,198.9 L849.8,196.7 L855.9,194.4 L861.9,192.2 L867.9,189.9 L874,187.7 L880,185.4 L886,183.1 L892,180.8 L898.1,178.4 L904.1,176.1 L910.1,173.7 L916.2,171.2 L922.2,168.8 L928.2,166.2 L934.2,163.7 L940.3,161 L946.3,158.4 L952.3,155.6 L958.3,152.8 L964.4,150 L970.4,147.1 L976.4,144.2 L982.5,141.2 L988.5,138.2 L994.5,135.1 L1000.5,132.1 L1006.6,129 L1012.6,125.9 L1018.6,122.8 L1024.7,119.6 L1030.7,116.5 L1036.7,113.3 L1042.7,110.2 L1048.8,107 L1054.8,103.8 L1060.8,100.6 L1066.8,97.5 L1072.9,94.3 L1078.9,91.1 L1084.9,87.9 L1091,84.7 L1097,81.5 L1103,78.2 L1109,75 L1109,106.7 L1103,108.9 L1097,111.1 L1091,113.2 L1084.9,115.4 L1078.9,117.6 L1072.9,119.8 L1066.8,122 L1060.8,124.2 L1054.8,126.4 L1048.8,128.7 L1042.7,130.9 L1036.7,133.1 L1030.7,135.3 L1024.7,137.6 L1018.6,139.9 L1012.6,142.1 L1006.6,144.4 L1000.5,146.7 L994.5,149 L988.5,151.4 L982.5,153.8 L976.4,156.2 L970.4,158.7 L964.4,161.2 L958.3,163.7 L952.3,166.3 L946.3,169 L940.3,171.7 L934.2,174.4 L928.2,177.3 L922.2,180.1 L916.2,183 L910.1,186 L904.1,189 L898.1,192 L892,195.1 L886,198.1 L880,201.2 L874,204.3 L867.9,207.5 L861.9,210.6 L855.9,213.8 L849.8,216.9 L843.8,220.1 L837.8,223.3 L831.8,226.4 L825.7,229.6 Z" fill="#2dd4bf" fill-opacity="0.16"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.63;1" dur="1.9s" fill="freeze"/></path>
+<g class="mono" font-size="12" fill="#9198a1"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.76;1" dur="2.9s" fill="freeze"/><text x="826" y="74">ŷ = 0.08 + 0.80x</text><text x="826" y="92">R² = 0.86</text></g>
+<line x1="1032.3" y1="58" x2="1032.3" y2="238" stroke="#3d444d" stroke-dasharray="3 5"/>
+<text x="1032.3" y="50" text-anchor="middle" class="mono" font-size="12" fill="#9198a1">now</text>
+<line x1="825.7" y1="217.6" x2="1032.3" y2="125.2" stroke="#2dd4bf" stroke-width="2.6" stroke-linecap="round" stroke-dasharray="226.2" stroke-dashoffset="0"><animate attributeName="stroke-dashoffset" values="226.2;226.2;0" keyTimes="0;0.59;1" dur="2.2s" fill="freeze"/></line>
+<line x1="1032.3" y1="125.2" x2="1109" y2="90.9" stroke="#2dd4bf" stroke-width="2.2" stroke-dasharray="6 6" clip-path="url(#fcReveal)"/>
+<circle cx="825.7" cy="228.8" r="4.6" fill="#3fb950" stroke="#0d1117" stroke-width="1.2"><animate attributeName="r" values="0;0;4.6" keyTimes="0;0.364;1" dur="0.55s" fill="freeze"/></circle>
+<circle cx="871.6" cy="189.7" r="4.6" fill="#3fb950" stroke="#0d1117" stroke-width="1.2"><animate attributeName="r" values="0;0;4.6" keyTimes="0;0.421;1" dur="0.60s" fill="freeze"/></circle>
+<circle cx="877.8" cy="200.9" r="4.6" fill="#3fb950" stroke="#0d1117" stroke-width="1.2"><animate attributeName="r" values="0;0;4.6" keyTimes="0;0.470;1" dur="0.66s" fill="freeze"/></circle>
+<circle cx="882.7" cy="178.7" r="4.6" fill="#3fb950" stroke="#0d1117" stroke-width="1.2"><animate attributeName="r" values="0;0;4.6" keyTimes="0;0.510;1" dur="0.71s" fill="freeze"/></circle>
+<circle cx="887.2" cy="178.4" r="4.6" fill="#3fb950" stroke="#0d1117" stroke-width="1.2"><animate attributeName="r" values="0;0;4.6" keyTimes="0;0.545;1" dur="0.77s" fill="freeze"/></circle>
+<circle cx="887.8" cy="182.7" r="4.6" fill="#3fb950" stroke="#0d1117" stroke-width="1.2"><animate attributeName="r" values="0;0;4.6" keyTimes="0;0.576;1" dur="0.82s" fill="freeze"/></circle>
+<circle cx="917.5" cy="201.9" r="4.6" fill="#3fb950" stroke="#0d1117" stroke-width="1.2"><animate attributeName="r" values="0;0;4.6" keyTimes="0;0.602;1" dur="0.88s" fill="freeze"/></circle>
+<circle cx="922.2" cy="174" r="4.6" fill="#3fb950" stroke="#0d1117" stroke-width="1.2"><animate attributeName="r" values="0;0;4.6" keyTimes="0;0.626;1" dur="0.93s" fill="freeze"/></circle>
+<circle cx="929.9" cy="164.5" r="4.6" fill="#3fb950" stroke="#0d1117" stroke-width="1.2"><animate attributeName="r" values="0;0;4.6" keyTimes="0;0.646;1" dur="0.99s" fill="freeze"/></circle>
+<circle cx="940.1" cy="158.4" r="4.6" fill="#3fb950" stroke="#0d1117" stroke-width="1.2"><animate attributeName="r" values="0;0;4.6" keyTimes="0;0.665;1" dur="1.04s" fill="freeze"/></circle>
+<circle cx="954.4" cy="174.5" r="4.6" fill="#3fb950" stroke="#0d1117" stroke-width="1.2"><animate attributeName="r" values="0;0;4.6" keyTimes="0;0.682;1" dur="1.10s" fill="freeze"/></circle>
+<circle cx="955" cy="160.4" r="4.6" fill="#3fb950" stroke="#0d1117" stroke-width="1.2"><animate attributeName="r" values="0;0;4.6" keyTimes="0;0.697;1" dur="1.15s" fill="freeze"/></circle>
+<circle cx="986.4" cy="154.8" r="4.6" fill="#3fb950" stroke="#0d1117" stroke-width="1.2"><animate attributeName="r" values="0;0;4.6" keyTimes="0;0.711;1" dur="1.21s" fill="freeze"/></circle>
+<circle cx="990" cy="151.1" r="4.6" fill="#3fb950" stroke="#0d1117" stroke-width="1.2"><animate attributeName="r" values="0;0;4.6" keyTimes="0;0.723;1" dur="1.27s" fill="freeze"/></circle>
+<circle cx="990.9" cy="126.1" r="4.6" fill="#3fb950" stroke="#0d1117" stroke-width="1.2"><animate attributeName="r" values="0;0;4.6" keyTimes="0;0.735;1" dur="1.32s" fill="freeze"/></circle>
+<circle cx="995.9" cy="148.8" r="4.6" fill="#3fb950" stroke="#0d1117" stroke-width="1.2"><animate attributeName="r" values="0;0;4.6" keyTimes="0;0.745;1" dur="1.38s" fill="freeze"/></circle>
+<circle cx="1006.8" cy="134.3" r="4.6" fill="#3fb950" stroke="#0d1117" stroke-width="1.2"><animate attributeName="r" values="0;0;4.6" keyTimes="0;0.755;1" dur="1.43s" fill="freeze"/></circle>
+<circle cx="1011.8" cy="120.3" r="4.6" fill="#3fb950" stroke="#0d1117" stroke-width="1.2"><animate attributeName="r" values="0;0;4.6" keyTimes="0;0.764;1" dur="1.48s" fill="freeze"/></circle>
+<circle cx="1030.9" cy="132.2" r="4.6" fill="#3fb950" stroke="#0d1117" stroke-width="1.2"><animate attributeName="r" values="0;0;4.6" keyTimes="0;0.773;1" dur="1.54s" fill="freeze"/></circle>
+<circle cx="1032.3" cy="125.4" r="4.6" fill="#3fb950" stroke="#0d1117" stroke-width="1.2"><animate attributeName="r" values="0;0;4.6" keyTimes="0;0.781;1" dur="1.59s" fill="freeze"/></circle>
+<circle cx="1109" cy="90.9" r="6" fill="none" stroke="#f2cc60" stroke-width="2" opacity="0"><animate attributeName="r" values="6;19" dur="2.4s" begin="3.1s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.85;0" dur="2.4s" begin="3.1s" repeatCount="indefinite"/></circle>
+<circle cx="1109" cy="90.9" r="6.5" fill="#f2cc60" stroke="#0d1117" stroke-width="1.5"><animate attributeName="r" values="0;0;6.5" keyTimes="0;0.9;1" dur="3.1s" fill="freeze"/></circle>
+<text x="1109" y="72.9" text-anchor="middle" class="mono" font-size="13" fill="#f2cc60">forecast<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.9;1" dur="3.1s" fill="freeze"/></text>
+</svg>
