@@ -1,26 +1,28 @@
-name: Generate Datas
+name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  schedule:
+    - cron: "17 6 * * *" # todo dia às 03:17 de Brasília (06:17 UTC)
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
-    name: Jobs to update datas
     runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
     steps:
-      # Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: FLINKBLINK
-          svg_out_path: dist/github-contribution-grid-snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
+      - uses: actions/checkout@v5
+      - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          if git commit -m "chore: update 3D contribution chart"; then
+            git push
+          fi
