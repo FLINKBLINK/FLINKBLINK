@@ -1,31 +1,45 @@
-### Hi there, I'm FLINKBLINK 👋
+<!-- Banner: troca sozinho entre o tema claro e o escuro do GitHub -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FLINKBLINK/FLINKBLINK/main/assets/banner-dark.svg">
+  <img alt="Lucas Rodrigues Vieira — Data Science · Software Development" src="https://raw.githubusercontent.com/FLINKBLINK/FLINKBLINK/main/assets/banner-light.svg" width="100%">
+</picture>
 
-- 🔭 I’m currently working on back-end
-- 🌱 I’m currently learning Python
-- 😄 Pronouns: ele/dele
+### Hi, I'm Lucas 👋
 
-<div>
-  <a href="https://github.com/FLINKBLINK">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FLINKBLINK&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FLINKBLINK&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  <div style="display: inline_block"><br>
-  <img align="center" alt="FLINK-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="FLINK-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-  <img align="center" alt="FLINK-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="FLINK-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="FLINK-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="FLINK-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right"  img height="100em" alt="FLINK-1PUNCH" src="https://cdn.discordapp.com/attachments/691328910889320572/889684552744841246/1_Qtu65HAeHWe15YzOTUCldQ.gif">
-</div>
-  
-   ##
- 
-<div> 
-  <a href="https://www.instagram.com/_rvlucas/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:rvlucas1985@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-rodrigues-vieira-a618361b7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/FLINKBLINK/FLINKBLINK/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+I'm a **Data Science** student at **Fatec Cotia**, with a background in **Systems Analysis & Development** from **Mackenzie**.
+I started in back-end (Java, PHP, C), today I work on the business side of tech, and I build **data pipelines, analyses and dashboards** in Python — the kind of analysis that answers real business questions.
+
+- 🔭 **Building:** a financial analysis of Brazil's regional telecom operators (CVM open data → Python ETL → SQLite → Streamlit)
+- 🌱 **Learning:** statistical inference and forecasting
+- 🤖 **Exploring:** LLMs for automation — summaries and document workflows
+- 😄 **Pronouns:** he/him (ele/dele)
+
+### 📌 Featured project
+
+<!-- Troque os dois links abaixo pelos do repositório do PI3 e do app publicado -->
+**📡 [Regional Telecom Financial Analysis](https://github.com/FLINKBLINK/NOME-DO-REPO)** · [▶ Live dashboard](https://SEU-APP.streamlit.app)<br>
+Financial health of Brisanet, Unifique and Desktop (2020–2025) from CVM open data: 12 indicators, data-quality checks, a fully reproducible pipeline and an interactive dashboard. *Team project · Fatec Cotia.*<br>
+`Python` `pandas` `SQLite` `Plotly` `Streamlit`
+
+### 🧰 Toolbox
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,r,sqlite,java,php,c,html,css,git,github,vscode,azure&theme=dark">
+  <img alt="Python, R, SQLite, Java, PHP, C, HTML, CSS, Git, GitHub, VS Code, Azure" src="https://skillicons.dev/icons?i=py,r,sqlite,java,php,c,html,css,git,github,vscode,azure&theme=light">
+</picture>
+
+**Data stack:** pandas · NumPy · Plotly · Streamlit · SQL
+
+### 📈 Contribution activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FLINKBLINK/FLINKBLINK/main/profile-3d-contrib/profile-night-green.svg">
+  <img alt="3D chart of my GitHub contributions" src="https://raw.githubusercontent.com/FLINKBLINK/FLINKBLINK/main/profile-3d-contrib/profile-green-animate.svg" width="100%">
+</picture>
+
+### 📫 Let's talk
+
+<a href="https://www.linkedin.com/in/lucas-rodrigues-vieira-a618361b7"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"></a>&nbsp;
+<a href="mailto:rvlucas1985@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="E-mail"></a>
+
+Always happy to talk about data, Python and analytics.
