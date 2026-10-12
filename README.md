@@ -17,7 +17,7 @@ I started in back-end (Java, PHP, C), today I work on the business side of tech,
 ### 📌 Featured project
 
 <!-- Troque os dois links abaixo pelos do repositório do PI3 e do app publicado -->
-**📡 [Regional Telecom Financial Analysis](https://github.com/FLINKBLINK/NOME-DO-REPO)** · [▶ Live dashboard](https://SEU-APP.streamlit.app)<br>
+**📡 [Regional Telecom Financial Analysis](https://github.com/FLINKBLINK/pi3-analise-financeira-telecom)** · [▶ Live dashboard](https://projeto-integrador3.streamlit.app/)<br>
 Financial health of Brisanet, Unifique and Desktop (2020–2025) from CVM open data: 12 indicators, data-quality checks, a fully reproducible pipeline and an interactive dashboard. *Team project · Fatec Cotia.*<br>
 `Python` `pandas` `SQLite` `Plotly` `Streamlit`
 
